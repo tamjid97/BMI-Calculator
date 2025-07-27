@@ -33,7 +33,7 @@ box-shadow: 0 0 50px rgb(5, 190, 39);
   #main{
 width: 80%;
 box-shadow: 0 0 50px rgb(69, 232, 99);
-margin-top: 100px;
+margin-top: px;
   }
 #main button:hover{
 background: #24e612;
@@ -55,7 +55,7 @@ background: #24e612;
   display: inline-block;
   white-space: nowrap;
   animation: scrollText 12s linear infinite;
-  font-size: 40px;
+  font-size: 25px;
   font-weight: bold;
 }
 
